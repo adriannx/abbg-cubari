@@ -4,5 +4,14 @@
   "artist": "",
   "author": "",
   "cover": "https://res.booklive.jp/10018654/001/thumbnail/X.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Capitulo 1",
+      "volume": "",
+      "last_updated": "1794407973",
+      "groups": {
+        "AnimeBbg": "/proxy/api/imgchest/chapter/ne7b8gopk75"
+      }
+    }
+  }
 }
